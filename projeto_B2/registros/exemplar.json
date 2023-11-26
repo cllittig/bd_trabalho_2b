@@ -1,0 +1,401 @@
+[{
+  "expID": 1,
+  "expNumero": 44,
+  "lvrId": 31
+}, {
+  "expID": 2,
+  "expNumero": 80,
+  "lvrId": 38
+}, {
+  "expID": 3,
+  "expNumero": 86,
+  "lvrId": 26
+}, {
+  "expID": 4,
+  "expNumero": 96,
+  "lvrId": 31
+}, {
+  "expID": 5,
+  "expNumero": 52,
+  "lvrId": 19
+}, {
+  "expID": 6,
+  "expNumero": 79,
+  "lvrId": 36
+}, {
+  "expID": 7,
+  "expNumero": 34,
+  "lvrId": 45
+}, {
+  "expID": 8,
+  "expNumero": 97,
+  "lvrId": 3
+}, {
+  "expID": 9,
+  "expNumero": 92,
+  "lvrId": 12
+}, {
+  "expID": 10,
+  "expNumero": 65,
+  "lvrId": 37
+}, {
+  "expID": 11,
+  "expNumero": 49,
+  "lvrId": 19
+}, {
+  "expID": 12,
+  "expNumero": 42,
+  "lvrId": 14
+}, {
+  "expID": 13,
+  "expNumero": 92,
+  "lvrId": 14
+}, {
+  "expID": 14,
+  "expNumero": 79,
+  "lvrId": 26
+}, {
+  "expID": 15,
+  "expNumero": 100,
+  "lvrId": 48
+}, {
+  "expID": 16,
+  "expNumero": 69,
+  "lvrId": 40
+}, {
+  "expID": 17,
+  "expNumero": 85,
+  "lvrId": 13
+}, {
+  "expID": 18,
+  "expNumero": 96,
+  "lvrId": 33
+}, {
+  "expID": 19,
+  "expNumero": 76,
+  "lvrId": 48
+}, {
+  "expID": 20,
+  "expNumero": 17,
+  "lvrId": 33
+}, {
+  "expID": 21,
+  "expNumero": 74,
+  "lvrId": 23
+}, {
+  "expID": 22,
+  "expNumero": 58,
+  "lvrId": 16
+}, {
+  "expID": 23,
+  "expNumero": 78,
+  "lvrId": 1
+}, {
+  "expID": 24,
+  "expNumero": 80,
+  "lvrId": 12
+}, {
+  "expID": 25,
+  "expNumero": 31,
+  "lvrId": 45
+}, {
+  "expID": 26,
+  "expNumero": 51,
+  "lvrId": 13
+}, {
+  "expID": 27,
+  "expNumero": 91,
+  "lvrId": 12
+}, {
+  "expID": 28,
+  "expNumero": 58,
+  "lvrId": 2
+}, {
+  "expID": 29,
+  "expNumero": 90,
+  "lvrId": 23
+}, {
+  "expID": 30,
+  "expNumero": 4,
+  "lvrId": 3
+}, {
+  "expID": 31,
+  "expNumero": 21,
+  "lvrId": 22
+}, {
+  "expID": 32,
+  "expNumero": 52,
+  "lvrId": 24
+}, {
+  "expID": 33,
+  "expNumero": 98,
+  "lvrId": 31
+}, {
+  "expID": 34,
+  "expNumero": 3,
+  "lvrId": 30
+}, {
+  "expID": 35,
+  "expNumero": 50,
+  "lvrId": 25
+}, {
+  "expID": 36,
+  "expNumero": 4,
+  "lvrId": 4
+}, {
+  "expID": 37,
+  "expNumero": 38,
+  "lvrId": 12
+}, {
+  "expID": 38,
+  "expNumero": 76,
+  "lvrId": 2
+}, {
+  "expID": 39,
+  "expNumero": 14,
+  "lvrId": 10
+}, {
+  "expID": 40,
+  "expNumero": 25,
+  "lvrId": 24
+}, {
+  "expID": 41,
+  "expNumero": 58,
+  "lvrId": 18
+}, {
+  "expID": 42,
+  "expNumero": 31,
+  "lvrId": 40
+}, {
+  "expID": 43,
+  "expNumero": 46,
+  "lvrId": 28
+}, {
+  "expID": 44,
+  "expNumero": 80,
+  "lvrId": 9
+}, {
+  "expID": 45,
+  "expNumero": 66,
+  "lvrId": 30
+}, {
+  "expID": 46,
+  "expNumero": 40,
+  "lvrId": 23
+}, {
+  "expID": 47,
+  "expNumero": 2,
+  "lvrId": 49
+}, {
+  "expID": 48,
+  "expNumero": 13,
+  "lvrId": 4
+}, {
+  "expID": 49,
+  "expNumero": 46,
+  "lvrId": 9
+}, {
+  "expID": 50,
+  "expNumero": 10,
+  "lvrId": 43
+}, {
+  "expID": 51,
+  "expNumero": 57,
+  "lvrId": 50
+}, {
+  "expID": 52,
+  "expNumero": 25,
+  "lvrId": 27
+}, {
+  "expID": 53,
+  "expNumero": 30,
+  "lvrId": 41
+}, {
+  "expID": 54,
+  "expNumero": 68,
+  "lvrId": 42
+}, {
+  "expID": 55,
+  "expNumero": 56,
+  "lvrId": 23
+}, {
+  "expID": 56,
+  "expNumero": 1,
+  "lvrId": 49
+}, {
+  "expID": 57,
+  "expNumero": 42,
+  "lvrId": 11
+}, {
+  "expID": 58,
+  "expNumero": 7,
+  "lvrId": 32
+}, {
+  "expID": 59,
+  "expNumero": 30,
+  "lvrId": 47
+}, {
+  "expID": 60,
+  "expNumero": 30,
+  "lvrId": 30
+}, {
+  "expID": 61,
+  "expNumero": 11,
+  "lvrId": 34
+}, {
+  "expID": 62,
+  "expNumero": 6,
+  "lvrId": 7
+}, {
+  "expID": 63,
+  "expNumero": 64,
+  "lvrId": 43
+}, {
+  "expID": 64,
+  "expNumero": 4,
+  "lvrId": 39
+}, {
+  "expID": 65,
+  "expNumero": 20,
+  "lvrId": 34
+}, {
+  "expID": 66,
+  "expNumero": 12,
+  "lvrId": 40
+}, {
+  "expID": 67,
+  "expNumero": 10,
+  "lvrId": 50
+}, {
+  "expID": 68,
+  "expNumero": 100,
+  "lvrId": 50
+}, {
+  "expID": 69,
+  "expNumero": 23,
+  "lvrId": 38
+}, {
+  "expID": 70,
+  "expNumero": 70,
+  "lvrId": 9
+}, {
+  "expID": 71,
+  "expNumero": 28,
+  "lvrId": 3
+}, {
+  "expID": 72,
+  "expNumero": 52,
+  "lvrId": 35
+}, {
+  "expID": 73,
+  "expNumero": 55,
+  "lvrId": 48
+}, {
+  "expID": 74,
+  "expNumero": 38,
+  "lvrId": 17
+}, {
+  "expID": 75,
+  "expNumero": 95,
+  "lvrId": 44
+}, {
+  "expID": 76,
+  "expNumero": 13,
+  "lvrId": 23
+}, {
+  "expID": 77,
+  "expNumero": 99,
+  "lvrId": 39
+}, {
+  "expID": 78,
+  "expNumero": 73,
+  "lvrId": 41
+}, {
+  "expID": 79,
+  "expNumero": 44,
+  "lvrId": 19
+}, {
+  "expID": 80,
+  "expNumero": 26,
+  "lvrId": 13
+}, {
+  "expID": 81,
+  "expNumero": 9,
+  "lvrId": 39
+}, {
+  "expID": 82,
+  "expNumero": 85,
+  "lvrId": 13
+}, {
+  "expID": 83,
+  "expNumero": 52,
+  "lvrId": 19
+}, {
+  "expID": 84,
+  "expNumero": 76,
+  "lvrId": 19
+}, {
+  "expID": 85,
+  "expNumero": 16,
+  "lvrId": 48
+}, {
+  "expID": 86,
+  "expNumero": 1,
+  "lvrId": 16
+}, {
+  "expID": 87,
+  "expNumero": 81,
+  "lvrId": 40
+}, {
+  "expID": 88,
+  "expNumero": 100,
+  "lvrId": 26
+}, {
+  "expID": 89,
+  "expNumero": 96,
+  "lvrId": 39
+}, {
+  "expID": 90,
+  "expNumero": 24,
+  "lvrId": 33
+}, {
+  "expID": 91,
+  "expNumero": 83,
+  "lvrId": 34
+}, {
+  "expID": 92,
+  "expNumero": 27,
+  "lvrId": 37
+}, {
+  "expID": 93,
+  "expNumero": 86,
+  "lvrId": 35
+}, {
+  "expID": 94,
+  "expNumero": 24,
+  "lvrId": 42
+}, {
+  "expID": 95,
+  "expNumero": 12,
+  "lvrId": 16
+}, {
+  "expID": 96,
+  "expNumero": 63,
+  "lvrId": 8
+}, {
+  "expID": 97,
+  "expNumero": 1,
+  "lvrId": 15
+}, {
+  "expID": 98,
+  "expNumero": 8,
+  "lvrId": 32
+}, {
+  "expID": 99,
+  "expNumero": 55,
+  "lvrId": 48
+}, {
+  "expID": 100,
+  "expNumero": 20,
+  "lvrId": 41
+}]
